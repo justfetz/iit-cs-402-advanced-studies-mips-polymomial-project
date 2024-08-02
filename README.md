@@ -1,17 +1,48 @@
-Illinois Institute of Technology CS - 402 Advanced Studies
- 
-## Mips Polynomial Project
+# Illinois Institute of Technology CS - 402 Advanced Studies
 
-### MIPS is an example of a Reduced Instruction Set Computer (RISC) which was designed for easy instruction
-pipelining. MIPS has a “Load/Store” architecture since all instructions (other than the load and store
-instructions) must use register operands. MIPS has 32 32-bit “general purpose” registers ($0, $1, $2, ... , $31),
-but some of these have special uses (see MIPS Register Conventions table).
- 
- ### About
- This is part of the curriculum at the Illinois Institute of Technology for Computer Organization and Assembly, CS 402.
- 
- ### Req.
- Use Assembly Language to evaluate the expression a(x^2) + b(x) + c
- 
- ### Comments
- Thank god this class is over.
+## MIPS Polynomial Project
+
+### Overview
+MIPS (Microprocessor without Interlocked Pipeline Stages) is a classic example of a Reduced Instruction Set Computer (RISC) architecture. Designed for efficient instruction pipelining, MIPS uses a “Load/Store” architecture where all operations, except for load and store instructions, are performed on register operands. The MIPS architecture features 32 general-purpose 32-bit registers (`$0` to `$31`), with some registers designated for special purposes according to the MIPS Register Conventions.
+
+### About
+This project is part of the curriculum for the course CS 402: Computer Organization and Assembly at the Illinois Institute of Technology.
+
+### Requirements
+The objective of this project is to use MIPS Assembly Language to evaluate the polynomial expression:
+\[ a(x^2) + b(x) + c \]
+
+### Project Details
+- **Language:** MIPS Assembly
+- **Tools:** MIPS simulator (e.g., MARS or SPIM)
+
+### Instructions
+1. **Setup MIPS Simulator:**
+   - Download and install a MIPS simulator such as MARS (MIPS Assembler and Runtime Simulator) or SPIM.
+   - Ensure the simulator is correctly configured for running MIPS Assembly programs.
+
+2. **Implement the Polynomial Expression:**
+   - Write MIPS Assembly code to calculate the polynomial expression \( a(x^2) + b(x) + c \).
+   - The code should take input values for `a`, `b`, `c`, and `x`, and then output the result of the expression.
+
+3. **Testing:**
+   - Test the program with various input values to ensure correctness.
+   - Validate the output against expected results for known inputs.
+
+### Comments
+Thank God this class is over. 
+
+### Additional Information
+Feel free to customize and extend the project as you see fit. Contributions and suggestions are always welcome.
+
+### Contact
+For any queries or further information, please contact:
+
+- **Name:** [Your Name]
+- **Email:** [Your Email]
+- **GitHub:** [Your GitHub Profile Link]
+
+---
+
+Thank you for checking out this project! If you find it helpful or interesting, consider giving it a star on GitHub.
+
