@@ -38,9 +38,9 @@ Feel free to customize and extend the project as you see fit. Contributions and 
 ### Contact
 For any queries or further information, please contact:
 
-- **Name:** [Your Name]
-- **Email:** [Your Email]
-- **GitHub:** [Your GitHub Profile Link]
+- **Name:** Fetzer, J
+- **Email:** jasonfetzer@protonmail.com
+- **GitHub:** 
 
 ---
 
