@@ -40,7 +40,7 @@ For any queries or further information, please contact:
 
 - **Name:** Fetzer, J
 - **Email:** jasonfetzer@protonmail.com
-- **GitHub:** 
+- **GitHub:** @justfetz
 
 ---
 
